@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  IniFile.cpp
+    正在创建库 C:\Users\fanyj\Desktop\自己的苦\ini文件操作\inifile\x64\release_A\inifile.lib 和对象 C:\Users\fanyj\Desktop\自己的苦\ini文件操作\inifile\x64\release_A\inifile.exp
+  正在生成代码
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  inifile.vcxproj -> C:\Users\fanyj\Desktop\自己的苦\ini文件操作\inifile\x64\release_A\inifile.dll

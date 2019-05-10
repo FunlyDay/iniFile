@@ -1,0 +1,7 @@
+﻿D:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  stdafx.cpp
+  dllmain.cpp
+  IniFile.cpp
+  正在生成代码...
+    正在创建库 C:\Users\fanyj\Desktop\自己的苦\ini文件操作\inifile\\bin\iniFile_d.lib 和对象 C:\Users\fanyj\Desktop\自己的苦\ini文件操作\inifile\\bin\iniFile_d.exp
+  inifile.vcxproj -> C:\Users\fanyj\Desktop\自己的苦\ini文件操作\inifile\\bin\iniFile_d.dll
